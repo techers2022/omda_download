@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "omdadownload-64cc8"
+  },
+  "targets": {
+    "omdadownload-64cc8": {
+      "hosting": {
+        "omdaDownload": [
+          "omda-download"
+        ]
+      }
+    }
+  }
+}
